@@ -57,9 +57,8 @@ Welcome to the **Online Plant Shop** project! This application allows users to b
 ## Demo Video
 
 <div align="center">
-    <img src="https://github.com/Mody9156/Shop/raw/main/Screenshots/demo.gif" alt="demo" width="500">
+<img src="Screenshots/demo.gif" alt="" width="500">
 </div>
-
 
 ## Contributing
 

@@ -57,10 +57,8 @@ Welcome to the **Online Plant Shop** project! This application allows users to b
 ## Demo Video
 
 <div align="center">
-<img src="Screenshots/demo.gif" alt="" width="500">
+<img src="/Users/keita/Desktop/Shop-main/Screenshots" alt="" width="500">
 </div>
-
-
 
 ## Contributing
 

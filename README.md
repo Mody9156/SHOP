@@ -54,9 +54,11 @@ Welcome to the **Online Plant Shop** project! This application allows users to b
 - Use the filtering options to explore plants by category.
 - Empty your cart at any time if you wish.
 
-## Screenshots
+## Demo Video
 
-
+<div align="center">
+<img src="Screenshots/demo.gif" alt="" width="500">
+</div>
 
 
 
